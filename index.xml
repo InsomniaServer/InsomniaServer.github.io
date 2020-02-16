@@ -20,7 +20,8 @@
       <description>Premier post sur le site.
 Rien de spécial ici.
 Juste pour vérifier que tout va bien.
-Test des tableaux | Col1 | Col2 | Col3 | | &amp;mdash;&amp;mdash;- |:&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;:| &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;:| | Col1 | est | alignée a gauche | | Col2 | est | certrée | | Col3 | est | alignée à droite | | Voilà | du texte | formaté avec différents styles |</description>
+Test des tableaux
+   Col1 Col2 Col3     Col1 est alignée a gauche   Col2 est certrée   Col3 est alignée à droite   Voilà du texte formaté avec différents styles    </description>
     </item>
     
   </channel>
