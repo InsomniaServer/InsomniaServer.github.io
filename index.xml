@@ -21,7 +21,8 @@
 Rien de spécial ici.
 Juste pour vérifier que tout va bien.
 Test des tableaux
-   Col1 Col2 Col3     Col1 est alignée a gauche   Col2 est certrée   Col3 est alignée à droite   Voilà du texte formaté avec différents styles    </description>
+   Col1 Col2 Col3     Col1 est alignée a gauche   Col2 est certrée   Col3 est alignée à droite   Voilà du texte formaté avec différents styles    Test des morceaux de code
+def main(): pass </description>
     </item>
     
   </channel>
